@@ -1,5 +1,5 @@
 {
-  "name": "prettier",
+  "name": "@redotech/prettier",
   "version": "3.4.2",
   "description": "Prettier is an opinionated code formatter",
   "bin": "./bin/prettier.cjs",
